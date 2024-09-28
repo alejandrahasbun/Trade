@@ -1,5 +1,6 @@
-Trade&Ahead Project
-Thisproject focuses on analyzing stock market data to assist investors in making informed decisions by grouping stocks based on their financial characteristics. 
+Trade & Ahead 
+
+This project focuses on analyzing stock market data to assist investors in making informed decisions by grouping stocks based on their financial characteristics. 
 By performing cluster analysis, this project aims to identify stocks with similar traits while minimizing correlation, ultimately helping investors create a diversified portfolio that mitigates risks.
 
 Objectives
